@@ -1,0 +1,28 @@
+    {
+        "coords": [
+            {
+                "ID": "1",
+                "longitude": "30.265099",
+                "latitude": "59.948504",
+                "comment": "Yebok Home"
+            },
+            {
+                "ID": "2",
+                "longitude": "30.295179",
+                "latitude": "59.973110",
+                "comment": "Rabota Koli 1"
+            },
+            {
+                "ID": "3",
+                "longitude": "30.3082977",
+                "latitude": "59.9568460",
+                "comment": "Rabota Koli 2"
+            },
+            {
+                "ID": "4",
+                "longitude": "30.308298",
+                "latitude": "59.956846",
+                "comment": "Yebok Girlfriend Home"
+            }
+        ]
+    }

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/flutter_windows_2.5.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2" />
+      <root url="file://$USER_HOME$/Downloads/flutter_windows_2.5.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-1.0.6" />
+      <root url="file://$USER_HOME$/Downloads/flutter_windows_2.5.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4" />
+      <root url="file://$USER_HOME$/Downloads/flutter_windows_2.5.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11" />
+      <root url="file://$USER_HOME$/Downloads/flutter_windows_2.5.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
